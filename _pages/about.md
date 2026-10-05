@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Laura Grazioli and I am currently a Postdoc at [CERMICS](https://cermics-lab.enpc.fr), Ecole nationale des ponts et chaussées, Marne-la-Vallée, France. I will start my new position at CNRS as Chargée de Recherche at CERMICS from 1st October 2026.
+I am Laura Grazioli. From 1st October 2026 I have started my new position at CNRS as Chargée de Recherche at [CERMICS](https://cermics-lab.enpc.fr), Ecole nationale des ponts et chaussées, Marne-la-Vallée, France. 
 
 My research focuses on electronic structure theory with
 
