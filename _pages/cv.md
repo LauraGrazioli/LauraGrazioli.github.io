@@ -6,10 +6,14 @@ permalink: /cv/
 [Download full CV (PDF)](/files/CV_Laura_Grazioli.pdf)
 
 ## Education
+**CNRS Chargée de recherche**  
+*CERMICS, École nationale des Ponts et Chaussées, Marne-la-Vallée, France*  
+**2026–present** 
+Interdisciplinary permanent position of quantum chemist in an applied mathematics laboratory.
 
 **Postdoctoral Researcher in Applied Mathematics for Theoretical Chemistry**  
 *CERMICS, École nationale des Ponts et Chaussées, INRIA, Paris, France*  
-**2024–present**  
+**2024–2026**  
 Research on excited states of molecular systems using saddle-point search approaches and geometric methods.  
 Funded by the [ERC Synergy Grant EMC2](https://erc-emc2.eu).   
 Supervisor: [Prof. Eric Cancès](https://cermics.enpc.fr/~cances/).
