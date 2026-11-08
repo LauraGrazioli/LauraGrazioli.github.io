@@ -6,7 +6,7 @@ author_profile: true
 
 - Grazioli, L., Hu, Y., Nottoli, T., Lipparini, F., Cancès, E. (2026).  
   *Critical point search and linear response theory for computing electronic excitation energies of molecular systems. Part II: CASSCF.*  
-  arXiv:2604.13753.
+  Journal of Chemical Physics, 165, 174118.
 
 - Hu, Y., Grazioli, L. (2026).  
   *Constrained dynamics for searching saddle points on general Riemannian manifolds.*  
