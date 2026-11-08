@@ -6,6 +6,9 @@ author_profile: true
 
 ## 2026
 
+- **Invited talk**, Invited talk at the "Journée de Lancement de UMR 9032, CERMICS", ENPC, November 2026.  
+  *"Differential geometry for the calculation of electronic excited states".*
+
 - **Invited talk**, ERC-EMC2 Annual Meeting and Workshop, Roscoff (France), July 2026.  
   *"Differential geometry for excited states: a unified framework".*
 
